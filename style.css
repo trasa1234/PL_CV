@@ -1,5 +1,6 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-family: "black Times New Roman", Serif;
   background: #f3f3f3;
 }
 
@@ -15,7 +16,6 @@ body {
 
 aside {
   width: 371px;
-  height: 1319px;
   left: 39px;
   top: 40px;
   background: #1e2939;
@@ -33,17 +33,13 @@ aside {
 
 .contact-links {
   color: #ffffff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-}
-
-.bold {
-  font-weight: 700;
 }
 
 .list-secondary {
   color: #fb6d3a;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   margin-left: 0;
   padding-left: 0;
@@ -76,7 +72,7 @@ aside {
 }
 
 main {
-  padding: 102px 88px 102px 88px;
+  padding: 90px 60px 90px 60px;
 }
 
 .main-description {
@@ -85,32 +81,32 @@ main {
 
 .job-title {
   font-weight: 700px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
 }
 
 h1 {
   font-weight: 700px;
-  font-size: 45px;
+  font-size: 46px;
   line-height: 55px;
 }
 
 .description {
   color: #595959;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   margin-bottom: 40px;
 }
 
 .projects {
-  width: 485px;
+  width: 100%;
   margin-bottom: 51px;
 }
 
 .list-primary {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   margin-left: 40px;
   color: #000000;
@@ -120,14 +116,14 @@ h1 {
 
 .list-primary-item {
   font-weight: 400;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 24px;
   color: #595959;
   text-decoration: none;
 }
 .header-primary {
   font-weight: 700;
-  font-size: 22px;
+  font-size: 23px;
   line-height: 27px;
   margin-bottom: 12px;
 }
@@ -144,14 +140,15 @@ job-name {
 
 .job-date {
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   line-height: 15px;
   color: #a8a8a8;
 }
 
 .job-list {
   font-weight: 400;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 24px;
   color: #595959;
+  list-style-type: disc;
 }
